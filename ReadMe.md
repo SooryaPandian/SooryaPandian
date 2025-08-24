@@ -1,3 +1,4 @@
+![cover image]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/SooryaPandian/SooryaPandian/blob/main/Sooryapandian%20S%20P%20(1).png))
 # 💫 About Me:
 Hi, I'm Soorya Pandian, a passionate software developer with a knack <br>for building innovative and user-centric solutions. My expertise spans <br>multiple domains, including mobile and web application development, <br>AI-powered solutions, and practical problem-solving for real-world <br>challenges.
 
